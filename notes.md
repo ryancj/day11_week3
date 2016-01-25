@@ -26,5 +26,8 @@ out of hierarchy, fixed on a position
 #####z-index:
 greater the value, the higher the element
 
+####Fonts
+(Google Fonts)[https://www.google.com/fonts]
+
 ####Media Queries
 #####
