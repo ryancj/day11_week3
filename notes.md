@@ -1,30 +1,30 @@
 #Week 3 Day 11
 
-###Displays, Block
+####Displays, Block
 Single row, 100% height.
 
-####Inline
+#####Inline
 Maintains base line, inline will ignore height and width. Images are inline elements.
 
-####Inline-block
+#####Inline-block
 Good for responsive grid structures.
 
-####Float and Clear
+#####Float and Clear
 Move elements (avoid stacking), clear to prevent default behavior.
 
-###Position
+####Position
 Static, relative, absolute
 
-####static:
+#####static:
 default
-####relative:
+#####relative:
 from your original position
-####absolute:
+#####absolute:
 on its own or looks up the chain, follows anything but static
-####fixed:
+#####fixed:
 out of hierarchy, fixed on a position
-####z-index:
+#####z-index:
 greater the value, the higher the element
 
-###Media Queries
-####
+####Media Queries
+#####
